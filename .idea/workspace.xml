@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2c4c6fd-928a-4ecf-a511-338c6bffb018" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PRAC3DOLGOPOLOV.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRAC3DOLGOPOLOV/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRAC3DOLGOPOLOV/Movable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRAC3DOLGOPOLOV/MovableCircle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRAC3DOLGOPOLOV/MovablePoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRAC3DOLGOPOLOV/MovableRectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRAC3DOLGOPOLOV/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRAC3DOLGOPOLOV/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRAC3DOLGOPOLOV/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRAC3DOLGOPOLOV/TestMovable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PRAC3DOLGOPOLOV/TestShape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MovableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MovableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestMovable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestShape.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xz13tUxrUL0OtY3HA2GJW4iZTn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.TestMovable">
+    <configuration name="TestMovable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestMovable" />
+      <module name="PRAC3DOLGOPOLOV" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestShape" />
+      <module name="PRAC3DOLGOPOLOV" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestMovable" />
+        <item itemvalue="Application.TestShape" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2c4c6fd-928a-4ecf-a511-338c6bffb018" name="Default Changelist" comment="" />
+      <created>1631342906861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631342906861</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="591" y="251" width="816" height="723" key="#Intentions" timestamp="1631345354718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="591" y="251" width="816" height="723" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1631345354718" />
+    <state x="603" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1631347334916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="603" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631347334916" />
+    <state x="1055" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1631347489565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1055" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1631347489565" />
+    <state width="1340" height="216" key="GridCell.Tab.0.bottom" timestamp="1631347574310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="216" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631347574310" />
+    <state width="1340" height="216" key="GridCell.Tab.0.center" timestamp="1631347574310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="216" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631347574310" />
+    <state width="1340" height="216" key="GridCell.Tab.0.left" timestamp="1631347574310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="216" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631347574310" />
+    <state width="1340" height="216" key="GridCell.Tab.0.right" timestamp="1631347574310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="216" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631347574310" />
+    <state x="938" y="236" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1631346690600">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="938" y="236" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631346690600" />
+    <state x="1435" y="324" width="672" height="678" key="search.everywhere.popup" timestamp="1631347651814">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1435" y="324" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1631347651814" />
+  </component>
+</project>
